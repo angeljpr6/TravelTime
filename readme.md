@@ -1,7 +1,7 @@
 # Travel Time Applet
 
 ## Descripción
-El applet **Travel Time** calcula y muestra el tiempo aproximado de viaje entre dos ubicaciones ingresadas por el usuario. Utiliza múltiples bibliotecas y servicios para obtener la información necesaria y presentarla de manera comprensible.
+El applet **Travel Time** calcula y muestra el tiempo aproximado de viaje entre dos ubicaciones ingresadas por el usuario. Utiliza múltiples bibliotecas y la api de google DistanceMatrix para obtener la información necesaria y presentarla de manera comprensible.
 
 ## Características
 - Ingreso de dos ubicaciones.
