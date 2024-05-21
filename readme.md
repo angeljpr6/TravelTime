@@ -24,7 +24,7 @@ Para instalar y ejecutar este proyecto, sigue los pasos a continuación:
     cd proyecto
     ```
 
-3. Asegúrate de tener Starlark instalado. Puedes instalarlo siguiendo las instrucciones en [Starlark's GitHub page](https://github.com/bazelbuild/starlark).
+3. Asegúrate de tener Pixlet instalado. Puedes instalarlo siguiendo las instrucciones en [Pixlet`s page](https://tidbyt.dev/docs/build/installing-pixlet).
 
 ## Uso
 A continuación se muestra un ejemplo de cómo utilizar el applet de Travel Time:
@@ -32,10 +32,10 @@ A continuación se muestra un ejemplo de cómo utilizar el applet de Travel Time
 1. Abre tu terminal y navega al directorio del proyecto.
 2. Ejecuta el script principal:
     ```sh
-    starlark travel_time.star
+    pixlet serve travel_time.star
     ```
-
-3. Ingresa las ubicaciones cuando se te solicite y el programa calculará y mostrará el tiempo de viaje aproximado.
+4. En un navegador abre la ruta que te aparecio en la consola al ejecutar y podrás ver la simulación de la aplicacion
+3. Ingresa las ubicaciones que desees y el programa calculará y mostrará el tiempo de viaje aproximado.
 
 ## Estructura del Proyecto
 El proyecto está organizado de la siguiente manera:
@@ -55,9 +55,6 @@ Si deseas contribuir a este proyecto, por favor sigue los pasos a continuación:
 3. Realiza los cambios necesarios y haz commit (`git commit -am 'Agrega nueva funcionalidad'`).
 4. Sube los cambios a tu fork (`git push origin feature-nueva-funcionalidad`).
 5. Abre un Pull Request en este repositorio.
-
-## Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## Contacto
 Si tienes alguna pregunta, no dudes en contactar al autor:
