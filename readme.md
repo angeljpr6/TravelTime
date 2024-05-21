@@ -16,7 +16,7 @@ Para instalar y ejecutar este proyecto, sigue los pasos a continuación:
 
 1. Clona el repositorio en tu máquina local:
     ```sh
-    git clone https://github.com/usuario/proyecto.git
+    git clone https://github.com/angeljpr6/TravelTime.git
     ```
 
 2. Navega al directorio del proyecto:
