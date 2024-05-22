@@ -48,7 +48,7 @@ def main(config):
     params = {
         "origins": origin,
         "destinations": destination,
-        "key": "AIzaSyD6dA4pWXXjFijuCxLIfrf1luN6mjcFBcE", 
+        "key": "", 
     }
 
     # Obtenemos la respuesta de la api y la guardamos
